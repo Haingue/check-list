@@ -1,4 +1,4 @@
-package com.haingue.checklist;
+package com.haingue.checklist.rest;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

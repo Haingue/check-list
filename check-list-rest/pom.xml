@@ -69,7 +69,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>com.haingue.checklist.Main</mainClass>
+                    <mainClass>com.haingue.checklist.rest.Main</mainClass>
                 </configuration>
             </plugin>
         </plugins>
