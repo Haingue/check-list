@@ -1,0 +1,7 @@
+create table user (id_user int,
+       	     	  name_user varchar(32),
+		  prenom_user varchar(32),
+		  mail_user varchar(124),
+		  password_mdp varchar(64),
+		  salt varchar(32),
+		  contrib
