@@ -1,5 +1,5 @@
 Initialize maven:
-mvn archetype:generate -DgroupId=com.haingue.check-list -DartifactId=check-list -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+mvn archetype:generate -DarchetypeArtifactId=jersey-quickstart-grizzly2 -DarchetypeGroupId=org.glassfish.jersey.archetypes -DinteractiveMode=false -DgroupId=com.haingue -DartifactId=check-list-rest -Dpackage=com.haingue.checklist
 
 Build Project:
 mvn package
